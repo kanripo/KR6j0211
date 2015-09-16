@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 出生無邊門陀羅尼經
+#+DATE: 2015-08-30 20:28:01.033940
+#+PROPERTY: JUAN 0
